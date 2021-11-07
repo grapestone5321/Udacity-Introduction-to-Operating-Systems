@@ -11,8 +11,17 @@ Udacity-Introduction-to-Operating-Systems
 https://classroom.udacity.com/courses/ud923
 
 
+- Introduction to Operating Systems
+https://www.udacity.com/wiki/ud923
 
+All course materials will be made available on the Course Wiki.
 
+Reference Books:
+
+- Operating System Concepts: Operating System Concepts 9th Edition
+- Operating System Concepts: Essentials: Operating System Concepts Essentials 2nd Edition
+- Modern Operating Systems: Modern Operating Systems 4th Edition
+- Operating Systems: Three Easy Pieces: https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 ### LESSON 1: == Course Readiness Survey ==
 
